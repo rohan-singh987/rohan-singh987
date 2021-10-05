@@ -6,7 +6,7 @@
 You can find me here :
 <p align="left">
   <a href="https://www.linkedin.com/in/rohan-singh-a783541b5/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:jyotibisht6114@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
+  <a href="mailto:rohannsingh98765@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
     
 
 ## About Me
@@ -30,10 +30,3 @@ Hi, I am Rohan Singh !
 </p>
 
   
-![Rohan Singh Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=rohan-singh987&show_icons=true&include_all_commits=true&theme=radical)
-
-<h1 align="left">GitHub Statistics</h1>
-
-[!rohan-singh987's github activity graph](https://activity-graph.herokuapp.com/graph?username=rohan-singh987&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
