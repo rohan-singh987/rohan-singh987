@@ -33,4 +33,4 @@ Hi, I am Rohan Singh !
 </p>
 
   
-![Rohan Singh Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=rohan-singh&show_icons=true&include_all_commits=true&theme=radical)
+![Rohan Singh Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=rohan-singh987&show_icons=true&include_all_commits=true&theme=radical)
