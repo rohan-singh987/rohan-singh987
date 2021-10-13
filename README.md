@@ -34,3 +34,9 @@ Hi, I am Rohan Singh !
 
   
 ![Rohan Singh Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=rohan-singh987&show_icons=true&include_all_commits=true&theme=radical)
+
+
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohan-singh987)](https://git.io/streak-stats)
+
