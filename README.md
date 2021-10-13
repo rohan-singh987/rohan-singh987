@@ -41,6 +41,10 @@ Hi, I am Rohan Singh !
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rohan-singh987&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohan-singh987&show_icons=true&theme=radical)
+
+
+
 
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rohan-singh987&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
