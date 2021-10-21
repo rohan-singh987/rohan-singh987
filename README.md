@@ -11,7 +11,7 @@ You can find me here :
 
 ## About Me
 Hi, I am Rohan Singh !
-- 🔭 I am a Btech student with majors in Computer Science from Vellore Institute of Technology.
+- 💻 I am a Btech student with majors in Computer Science from Vellore Institute of Technology.
 - 👩‍💻 I find my technical interests in Problem Solving, Front-end development,Technical writing and open source. 
 
  
