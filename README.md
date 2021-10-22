@@ -38,7 +38,7 @@ Hi, I am Rohan Singh !
 
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rohan-singh987&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)]
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rohan-singh987&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)
 
 
 
@@ -46,4 +46,4 @@ Hi, I am Rohan Singh !
 
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rohan-singh987&theme=dracula)]
+![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rohan-singh987&theme=dracula)
