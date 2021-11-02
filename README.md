@@ -46,4 +46,4 @@ Hi, I am Rohan Singh !
 
 
 
-![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rohan-singh987&theme=dracula)
+![](https://activity-graph.herokuapp.com/graph?username=rohan-singh987&theme=dracula)
