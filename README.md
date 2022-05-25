@@ -50,4 +50,4 @@ Hi, I am Rohan Singh !
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rohan-singh987&column=3&margin-w=15&margin-h=15&theme=dracula)]
+[![trophy](https://github-profile-trophy.vercel.app/?username=rohan-singh987&column=4&margin-w=20&margin-h=20&theme=dracula)]
