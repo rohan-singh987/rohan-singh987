@@ -47,3 +47,7 @@ Hi, I am Rohan Singh !
 
 
 ![](https://activity-graph.herokuapp.com/graph?username=rohan-singh987&theme=dracula)
+
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rohan-singh987&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
