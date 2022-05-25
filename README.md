@@ -50,4 +50,4 @@ Hi, I am Rohan Singh !
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rohan-singh987&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rohan-singh987&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
