@@ -7,7 +7,7 @@ You can find me here :
 <p align="left">
   <a href="https://www.linkedin.com/in/rohan-singh-a783541b5/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:rohannsingh98765@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
-    <a href="https://twitter.com/Rohan_Singh2003"><img title="Twitter" src="https://img.shields.io/badge/Twitter-D14836?style=for-the-badge&logo=twitter&logoColor=blue"/></a> 
+    <a href="https://twitter.com/Rohan_Singh2003"><img title="Twitter" src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=blue"/></a> 
 
 ## About Me
 Hi, I am Rohan Singh !
