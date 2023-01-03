@@ -42,7 +42,7 @@ Hi, I am Rohan Singh !
 
 
 
-
+![](https://github-readme-stats.vercel.app/api?username=rohan-singh987)
 
 
 
