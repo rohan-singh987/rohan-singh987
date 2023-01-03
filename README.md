@@ -42,8 +42,7 @@ Hi, I am Rohan Singh !
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=rohan-singh987)
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-singh987&langs_count=8)] -->
 
 
 ![](https://activity-graph.herokuapp.com/graph?username=rohan-singh987&theme=dracula)
